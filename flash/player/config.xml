@@ -1,0 +1,12 @@
+<config>
+    <param name="mp3" value="http%3A//flash-mp3-player.net/medias/another_world.mp3"/>
+    <param name="width" value="480"/>
+    <param name="autoload" value="1"/>
+    <param name="showstop" value="1"/>
+    <param name="showvolume" value="1"/>
+    <param name="bgcolor" value="33325C"/>
+    <param name="bgcolor1" value="33325C"/>
+    <param name="bgcolor2" value="33325C"/>
+    <param name="slidercolor1" value="ffffff"/>
+    <param name="slidercolor2" value="ffffff"/>
+</config>

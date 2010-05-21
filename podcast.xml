@@ -1,0 +1,47 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+ <channel>
+  <title>Northeast Minneapolis Audio-guided Walking Tours</title>
+  <link>http://newalkingtours.com</link>
+  <description>The Audio-Guided Walking Tours are a community project by members of the Northeast Minneapolis neigborhoods. The project's goal is present Northeast as a collective of many experiences and a vital neighborhood with a past, present and future.</description>
+
+  <language>en-us</language>
+  <lastBuildDate>Mon, 31 Aug 2009 09:00:00 CST</lastBuildDate>
+  <pubDate>Mon, 31 Aug 2009 09:00:00 CST</pubDate>
+  <webMaster>artsharene@gmail.com (Andrew Dayton)</webMaster>
+  
+  <itunes:block>No</itunes:block>
+  <itunes:subtitle>The Audio-Guided Walking Tours are a community project by members of the Northeast Minneapolis neigborhoods. The project's goal is present Northeast as a collective of many experiences and a vital neighborhood with a past, present and future.</itunes:subtitle>
+
+  <itunes:author>ArtShare</itunes:author>
+  <itunes:summary>The Audio-Guided Walking Tours are a community project by members of the Northeast Minneapolis neigborhoods. The project's goal is present Northeast as a collective of many experiences and a vital neighborhood with a past, present and future.</itunes:summary>
+  <itunes:owner>
+   <itunes:name>ArtShare</itunes:name>
+   <itunes:email>artsharene@gmail.com</itunes:email>
+
+  </itunes:owner>
+  <itunes:image href="http://newalkingtours.com/images/podcast.jpg"/>
+		<itunes:category text="Education"></itunes:category>
+		<itunes:category text="Arts"></itunes:category>
+		<itunes:category text="Government &amp; Organizations"></itunes:category>
+  <itunes:explicit>No</itunes:explicit>
+
+  <item>
+   <title>Never The Same River Twice (Bottineau Neighborhood)</title>
+
+   <description>Never the same river twice looks at the flow of time and circumstance as the architect of change in Northeast Minneapolis. Starting at the banks of the Mississippi River we follow the river and the development of the Bottineau area since Pierre Bottineau himself first purchased this land. We will see the influences of the arrival of European immigrants, the migration of artists from the Warehouse district and the newest immigrant communities as they all resolve to make Northeast not only their home, but their neighborhood. Celebrate the hard work and innovation of neighbors past and present by walking in their footsteps and hearing their stories.</description>
+   <category>Audio-guided Waking Tour</category>
+   <link>http://www.newalkingtours.com/walks/never-the-same-river-twice/</link>
+   <enclosure url="http://www.newalkingtours.com/files/audio/newalkingtour-neverthesameriver.mp3" length="53353502" type="audio/mpeg"></enclosure>
+   <guid>http://www.newalkingtours.com/files/audio/newalkingtour-neverthesameriver.mp3</guid>
+   <pubDate>Sat, 29 Aug 2009 10:00:00 CST</pubDate>
+
+   <itunes:author>Jennifer Arave, Andy Dayton, Kirsten Rome, Allen Kendall, Glenn Smith, Marquis Weis Smith</itunes:author>
+   <itunes:subtitle>See the influences of the arrival of European immigrants, the migration of artists from the Warehouse district and the newest immigrant communities as they all resolve to make Northeast not only their home, but their neighborhood.</itunes:subtitle>
+   <itunes:summary>Never the same river twice looks at the flow of time and circumstance as the architect of change in Northeast Minneapolis. Starting at the banks of the Mississippi River we follow the river and the development of the Bottineau area since Pierre Bottineau himself first purchased this land. We will see the influences of the arrival of European immigrants, the migration of artists from the Warehouse district and the newest immigrant communities as they all resolve to make Northeast not only their home, but their neighborhood. Celebrate the hard work and innovation of neighbors past and present by walking in their footsteps and hearing their stories.</itunes:summary>
+   <itunes:duration>55:28</itunes:duration>
+   <itunes:keywords>northeast minneapolis, bottineau, mississippi, history, walking tour, artshare, minneapolis, art-a-whirl, community, community art, art</itunes:keywords>
+  </item>
+
+ </channel>
+
+</rss>

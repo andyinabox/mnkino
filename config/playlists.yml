@@ -1,0 +1,60 @@
+orange:
+  num: 1
+  name: "Orange"
+  blip_id: 191278
+  blip_player_url: http://blip.tv/play/hKdni9cSmdVM
+  date: 2009-06-21
+on-off:
+  num: 2
+  name: "ON / OFF"
+  blip_id: 191279
+  blip_player_url: http://blip.tv/play/hKdni9cTmdVM
+  date: 2009-08-18
+transparency:
+  num: 3
+  name: "Transparency"
+  blip_id: 192819
+  blip_player_url: http://blip.tv/play/hKdni%2BMXmdVM
+  date: 2009-09-22
+repeat:
+  num: 4
+  name: "Repeat"
+  blip_id: 194988
+  blip_player_url: http://blip.tv/play/hKdni_QQmdVM
+  date: 2009-10-20
+cut-copy-paste:
+  num: 5
+  name: "Cut / Copy / Paste"
+  blip_id: 196457
+  blip_player_url: http://blip.tv/play/hKdni_9NmdVM
+  date: 2009-11-24
+non-fiction:
+  num: 6
+  name: "Non-fiction"
+  blip_id: 200742
+  blip_player_url: http://blip.tv/play/hKdnjKEKmdVM
+  date: 2009-12-22
+food:
+  num: 7
+  name: "FOOD"
+  blip_id: 200743
+  blip_player_url: http://blip.tv/play/hKdnjKELmdVM
+  date: 2010-01-19
+silence:
+  num: 8
+  name: "silence."
+  blip_id: 205264
+  blip_player_url: http://blip.tv/play/hKdnjMQ0mdVM
+  date: 2010-02-23
+why:
+  num: 9
+  name: "Why?"
+  blip_id: 205273
+  blip_player_url: http://blip.tv/play/hKdnjMQ9mdVM
+  date: 2010-03-23
+show-and-tell:
+  num: 9
+  name: "SHOW & TELL"
+  blip_id: 208315
+  blip_player_url: http://blip.tv/play/hKdnjNwfmdVM
+  date: 2010-04-20
