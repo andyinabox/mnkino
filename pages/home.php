@@ -2,7 +2,7 @@
 	
 	<!-- <p><a href="/vids/why/"><strong>Watch videos from the last screening!</strong></a></p> -->
 	
-	<div id="next-screening">The next screening is the kick off for the fist <a href-"/kabaret/"><strong>MNKINO Kabaret!</strong></a> On <strong>July 23rd</strong> we'll meet at the <a href="http://westbanksocialcenter.org">West Bank Social Center</a> for an open screening, and kickoff 48 hours of filmmaking. More information on our <a href="/kabaret/">Kabaret page</a>.</div> 
+	<div id="next-screening">The next screening is the kick off for the fist <a href="/kabaret/"><strong>MNKINO Kabaret!</strong></a> On <strong>July 23rd</strong> we'll meet at the <a href="http://westbanksocialcenter.org">West Bank Social Center</a> for an open screening, and kickoff 48 hours of filmmaking. More information on our <a href="/kabaret/">Kabaret page</a>.</div> 
 
 <!--Start mc_embed_signup-->
 <div id="mc_embed_signup">
