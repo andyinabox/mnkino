@@ -53,8 +53,14 @@ why:
   blip_player_url: http://blip.tv/play/hKdnjMQ9mdVM
   date: 2010-03-23
 show-and-tell:
-  num: 9
+  num: 10
   name: "SHOW & TELL"
   blip_id: 208315
   blip_player_url: http://blip.tv/play/hKdnjNwfmdVM
   date: 2010-04-20
+change:
+  num: 10
+  name: "Change"
+  blip_id: 209277
+  blip_player_url: http://blip.tv/play/hKdnjONhmdVM
+  date: 2010-05-25
