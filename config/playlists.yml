@@ -1,66 +1,110 @@
-orange:
-  num: 1
-  name: "Orange"
-  blip_id: 191278
-  blip_player_url: http://blip.tv/play/hKdni9cSmdVM
-  date: 2009-06-21
-on-off:
-  num: 2
-  name: "ON / OFF"
-  blip_id: 191279
-  blip_player_url: http://blip.tv/play/hKdni9cTmdVM
-  date: 2009-08-18
-transparency:
-  num: 3
-  name: "Transparency"
-  blip_id: 192819
-  blip_player_url: http://blip.tv/play/hKdni%2BMXmdVM
-  date: 2009-09-22
-repeat:
-  num: 4
-  name: "Repeat"
-  blip_id: 194988
-  blip_player_url: http://blip.tv/play/hKdni_QQmdVM
-  date: 2009-10-20
-cut-copy-paste:
-  num: 5
-  name: "Cut / Copy / Paste"
-  blip_id: 196457
-  blip_player_url: http://blip.tv/play/hKdni_9NmdVM
-  date: 2009-11-24
-non-fiction:
-  num: 6
-  name: "Non-fiction"
-  blip_id: 200742
-  blip_player_url: http://blip.tv/play/hKdnjKEKmdVM
-  date: 2009-12-22
-food:
-  num: 7
-  name: "FOOD"
-  blip_id: 200743
-  blip_player_url: http://blip.tv/play/hKdnjKELmdVM
-  date: 2010-01-19
-silence:
-  num: 8
-  name: "silence."
-  blip_id: 205264
-  blip_player_url: http://blip.tv/play/hKdnjMQ0mdVM
-  date: 2010-02-23
-why:
-  num: 9
-  name: "Why?"
-  blip_id: 205273
-  blip_player_url: http://blip.tv/play/hKdnjMQ9mdVM
-  date: 2010-03-23
-show-and-tell:
-  num: 10
-  name: "SHOW & TELL"
-  blip_id: 208315
-  blip_player_url: http://blip.tv/play/hKdnjNwfmdVM
-  date: 2010-04-20
-change:
-  num: 10
-  name: "Change"
-  blip_id: 209277
-  blip_player_url: http://blip.tv/play/hKdnjONhmdVM
-  date: 2010-05-25
+monthly:
+  orange:
+    num: 1
+    name: "Orange"
+    blip_id: 191278
+    blip_player_url: http://blip.tv/play/hKdni9cSmdVM
+    date: 2009-06-21
+  on-off:
+    num: 2
+    name: "ON / OFF"
+    blip_id: 191279
+    blip_player_url: http://blip.tv/play/hKdni9cTmdVM
+    date: 2009-08-18
+  transparency:
+    num: 3
+    name: "Transparency"
+    blip_id: 192819
+    blip_player_url: http://blip.tv/play/hKdni%2BMXmdVM
+    date: 2009-09-22
+  repeat:
+    num: 4
+    name: "Repeat"
+    blip_id: 194988
+    blip_player_url: http://blip.tv/play/hKdni_QQmdVM
+    date: 2009-10-20
+  cut-copy-paste:
+    num: 5
+    name: "Cut / Copy / Paste"
+    blip_id: 196457
+    blip_player_url: http://blip.tv/play/hKdni_9NmdVM
+    date: 2009-11-24
+  non-fiction:
+    num: 6
+    name: "Non-fiction"
+    blip_id: 200742
+    blip_player_url: http://blip.tv/play/hKdnjKEKmdVM
+    date: 2009-12-22
+  food:
+    num: 7
+    name: "FOOD"
+    blip_id: 200743
+    blip_player_url: http://blip.tv/play/hKdnjKELmdVM
+    date: 2010-01-19
+  silence:
+    num: 8
+    name: "silence."
+    blip_id: 205264
+    blip_player_url: http://blip.tv/play/hKdnjMQ0mdVM
+    date: 2010-02-23
+  why:
+    num: 9
+    name: "Why?"
+    blip_id: 205273
+    blip_player_url: http://blip.tv/play/hKdnjMQ9mdVM
+    date: 2010-03-23
+  show-and-tell:
+    num: 10
+    name: "SHOW & TELL"
+    blip_id: 208315
+    blip_player_url: http://blip.tv/play/hKdnjNwfmdVM
+    date: 2010-04-20
+  change:
+    num: 11
+    name: "Change"
+    blip_id: 209277
+    blip_player_url: http://blip.tv/play/hKdnjONhmdVM
+    date: 2010-05-25
+  work:
+    num: 12
+    name: "WORK"
+    blip_id: 211857
+    blip_player_url: http://blip.tv/play/hKdnjPd1mdVM
+    date: 2010-06-21
+  innovation:
+    num: 13
+    name: "Innovation"
+    blip_id: 216001
+    blip_player_url: http://blip.tv/play/hKdnjZglmdVM%2Em4v
+    date: 2010-09-21
+  disguise:
+    num: 14
+    name: "Disguise"
+    blip_id: 217233
+    blip_player_url: http://blip.tv/play/hKdnjaF1mdVM%2Em4v
+    date: 2010-10-28
+  fanatic:
+    num: 14
+    name: "Fanatic"
+    blip_id: 225956
+    blip_player_url: http://blip.tv/play/hKdnjeYImdVM%2Em4v
+    date: 2010-11-18
+  portrait:
+    num: 14
+    name: "Portrait"
+    blip_id: 225957
+    blip_player_url: http://blip.tv/play/hKdnjeYJmdVM%2Em4v
+    date: 2010-12-16
+  beyond-the-grave:
+    num: 26
+    name: "From Beyond the Grave"
+    blip_id: 244988
+    blip_player_url: http://blip.tv/play/hKdnjvpgmdVM%2Em4v
+    date: 2010-10-21
+kabaret:
+  july-2010:
+    name: "July 2010 Kabaret"
+    blip_id: 214834
+    blip_player_url: http://blip.tv/play/hKdnjY8WmdVM%2Em4v
+    start_date: 2010-07-23
+    end_date: 2010-07-25

@@ -1,3 +1,4 @@
 .svn
 config/environment.yml
 config/environment.php
+.DS_Store

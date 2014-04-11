@@ -10,12 +10,11 @@
 	</ol>
 </p>
 <h2 id="form">Submission Form</h2>
-<div id="submit-form">
-<iframe src="http://spreadsheets.google.com/embeddedform?formkey=dGRUdGNrLXhGS00zbmt2UDNWRWx4ZUE6MA" width="500" height="1048" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="http://spreadsheets.google.com/embeddedform?formkey=dHFfeWdZREw0cmdwbXpXcE9zbkxPWGc6MA" width="500" height="1048" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
 <h2 id="notes">Notes</h2>
 <ul>
 	<li>If you're submitting a video, try and show up a few minutes early.</li>
-	<li>Video formats: most common video files will work &mdash; .mov, .avi, .m4v, etc. We recommend a .mov compress with th H.264 codec.</li>
+	<li>Video formats: most common video files will work &mdash; .mov, .avi, .m4v, etc. We recommend a .mov compress with the H.264 codec.</li>
 	<li>When in doubt, try it!</li>
 </ul>

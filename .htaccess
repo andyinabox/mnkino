@@ -1,13 +1,13 @@
 RewriteEngine on
 
-RewriteCond %{HTTP_HOST} ^(mnkino.andyinabox.com|mnkino|mnkino.com)$
+RewriteCond %{HTTP_HOST} ^(mnkino.andyinabox.com|mnkino.dev|mnkino.com)$
 RewriteRule ^/?$ index.php?s=home
 
-RewriteCond %{HTTP_HOST} ^(mnkino.andyinabox.com|mnkino|mnkino.com)$
+RewriteCond %{HTTP_HOST} ^(mnkino.andyinabox.com|mnkino.dev|mnkino.com)$
 RewriteRule ^([^/\.]+)/?$ index.php?s=$1
 
-RewriteCond %{HTTP_HOST} ^(mnkino.andyinabox.com|mnkino|mnkino.com)$
+RewriteCond %{HTTP_HOST} ^(mnkino.andyinabox.com|mnkino.dev|mnkino.com)$
 RewriteRule ^(vids)/([^/\.]+)/?$ index.php?s=$1&p=playlist&playlist_name=$2 [L]
 
-RewriteCond %{HTTP_HOST} ^(mnkino.andyinabox.com|mnkino|mnkino.com)$
+RewriteCond %{HTTP_HOST} ^(mnkino.andyinabox.com|mnkino.dev|mnkino.com)$
 RewriteRule ^([^/\.]+)/([^/\.]+)/?$ index.php?s=$1&p=$2

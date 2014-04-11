@@ -21,7 +21,8 @@ function showMainPlayer() {
 	$src = "http://blip.tv/play/hKdni9cUmdVM";
 	if ($SECTION == 'vids') {
 		$playlists = Spyc::YAMLLoad($CONFIG['web_root'] . 'config/playlists.yml');
-		if($playlists[$_GET['playlist_name']] != null) { $src = $playlists[$_GET['playlist_name']]['blip_player_url']; }
+		if($playlists['monthly'][$_GET['playlist_name']] != null) { $src = $playlists['monthly'][$_GET['playlist_name']]['blip_player_url']; }
+		elseif ($playlists['kabaret'][$_GET['playlist_name']] != null) { $src = $playlists['kabaret'][$_GET['playlist_name']]['blip_player_url']; }
 	}
 	
 	return '<embed src="'.$src.'" type="application/x-shockwave-flash" width="550" height="416" allowscriptaccess="always" allowfullscreen="true"></embed>';

@@ -76,16 +76,16 @@ input {}
 	padding: 5px;
 }
 
-#videos-index {
+.videos-index {
 	font-size: 120%;
 }
 
-#videos-index a {
+.videos-index a {
 	font-weight: bold;
 	text-decoration: none;
 }
 
-#videos-index .date {
+.videos-index .date {
 	font-size: 80%;
 	font-style: italic;
 	color: #777;
